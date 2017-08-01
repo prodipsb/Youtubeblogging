@@ -1,0 +1,89 @@
+body{
+    color: #847676 !important;
+}
+#logo a:hover{color: inherit !important;}
+//a{ color: #0274be !important;}
+a:hover{color: #1177b8 !important;}
+#navigation ul li a{background: #364956;}
+#navigation ul li a:hover{color: #FFFFFF !important; background-color: red;}
+
+.readMore a{
+    color: #FFFFFF;
+    background: #006666 !important;
+    padding: 10px 14px 12px;
+    font-size: 18px;
+    line-height: 12px;
+    display: inline-block;
+    text-decoration: none;
+    text-transform: none;
+    border-radius: 5px;
+}
+.readMore a:hover{
+    color: #dcdcdc !important;
+    background: #006666 !important;
+    
+}
+
+.single-postmeta a{
+    color: #444444 !important;
+    font-weight: bold;
+    text-transform: capitalize;
+    
+}
+//#commentform a{color: red !important; text-transform: capitalize;}
+.single-postmeta a:hover{
+    text-decoration: underline green !important;
+}
+
+.sidebar.c-4-12{ max-width: 330px;}
+
+#searchform input[type="submit"]{ background: #4c6c82;}
+#searchform input[type="submit"]:hover{ background: #364956 !important;}
+
+.wpt_widget_content .tab_title a { line-height: 2.0 !important;}
+
+.wpt_widget_content .tab-content li { 
+   // box-sizing: initial !important;
+    margin: 0 0 5px 0 !important;
+    padding: 0px 15px 5px 15px !important;
+}
+
+.single-custom a{ color: #0274be }
+
+.single-custom h1{
+    font-size: 40px;
+    line-height: 1.1
+}
+
+.postauthor img{
+     max-width: 100% !important;
+     width: 80px;
+    height: auto!important;
+
+}
+
+.logged-in-as a {color: #0274be !important; }
+
+#commentform input#submit { background-color: #364956}
+
+.sf-js-enabled li{ background-color: red !important;}
+
+.widget li{
+    list-style-type: none;
+}
+.contact li a{
+    color:blue !important;
+}
+.contact li a:hover{
+    color:gray !important;
+}
+.widget-title{
+    margin-left: 25px !important;
+}
+div.wpcf7 img.ajax-loader {
+    border: none;
+    vertical-align: middle;
+    margin-left: 4px;
+    height: 20px;
+    width: 20px;
+}
